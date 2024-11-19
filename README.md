@@ -3,7 +3,7 @@
 Links:
 1. [CV](/CV.pdf)
 2. AOS C111 Final Project
-3. [AOS 180 Final Project](AOS
+3. [AOS 180 Final Project](/AOS180FinalPresentation.pptx)
 5. [Physics 128 Final Project](/Physics_128_Final_Project.pdf)
 6. [Math 151A Final Project](/151a_Final_Project.pdf)
 7. [MPL Summer internship Final Presentation](/mplfinalpresentation.pptx)
