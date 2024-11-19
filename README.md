@@ -1,12 +1,12 @@
 **Welcome to my website** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
 
 Links:
-1. [CV]
-2. AOS 103 Final Project
-3. AOS 180 Final Project
-5. Physics 128 Final Project
-6. Math 151A Final Project
-7. MPL Summer internship Final Presentation
+1. [CV](/CV.pdf)
+2. AOS C111 Final Project
+3. [AOS 180 Final Project](AOS
+5. [Physics 128 Final Project](/Physics_128_Final_Project.pdf)
+6. [Math 151A Final Project](/151a_Final_Project.pdf)
+7. [MPL Summer internship Final Presentation]("Assessing numerical predictions of fog in the Yellow Sea (1).pptx")
 
 For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
 
