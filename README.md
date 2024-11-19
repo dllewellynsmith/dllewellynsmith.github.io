@@ -1,4 +1,12 @@
-**Hi class, welcome to the AOS C111/204 final project!** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
+**Welcome to my website** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
+
+Links:
+1. [CV]
+2. AOS 103 Final Project
+3. AOS 180 Final Project
+5. Physics 128 Final Project
+6. Math 151A Final Project
+7. MPL Summer internship Final Presentation
 
 For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
 
