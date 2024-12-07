@@ -1,4 +1,4 @@
-**Welcome to my website** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
+**Welcome to my website** <img align="right" width="220" height="220" src="/IMG_4525.HEIC">
 
 Links:
 1. [CV](/CV.pdf)
