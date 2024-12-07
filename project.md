@@ -1,6 +1,6 @@
 ## Yacht Hydrodynamics
 
-[Link to report](C111FinalProject.pdf)
+[Link to report](C111_Final_Project.pdf)
 
 [Download code](finalproject.ipynb)
 
