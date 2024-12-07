@@ -1,4 +1,4 @@
-**Welcome to my website** <img align="right" src="/IMG_4525.jpeg">
+**Welcome to my website** <img align="right" width="151.2" height="201.6" src="/IMG_4525.jpeg">
 
 Links:
 1. [CV](/CV.pdf)
